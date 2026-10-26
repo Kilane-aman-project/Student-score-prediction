@@ -1,0 +1,3 @@
+pandas
+maltplolib
+scikit-learn
